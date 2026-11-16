@@ -1,11 +1,11 @@
 {
   "install-skill": {
     "last_status": "failed",
-    "last_failed": "2026-11-16T03:23:35Z",
-    "total_runs": 2,
+    "last_failed": "2026-11-16T03:23:49Z",
+    "total_runs": 3,
     "total_successes": 0,
-    "total_failures": 2,
-    "consecutive_failures": 2,
+    "total_failures": 3,
+    "consecutive_failures": 3,
     "success_rate": 0
   }
 }
