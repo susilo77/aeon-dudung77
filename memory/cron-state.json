@@ -9,14 +9,14 @@
     "success_rate": 0
   },
   "heartbeat": {
-    "last_status": "failed",
+    "last_status": "dispatched",
     "last_failed": "2026-11-16T11:05:59Z",
     "total_runs": 5,
     "total_successes": 0,
     "total_failures": 5,
     "consecutive_failures": 5,
     "success_rate": 0,
-    "last_dispatch": "2026-11-16T11:01:47Z"
+    "last_dispatch": "2026-11-17T13:11:20Z"
   },
   "soul-builder": {
     "last_status": "failed",
