@@ -9,12 +9,12 @@
     "success_rate": 0
   },
   "heartbeat": {
-    "last_status": "dispatched",
-    "last_failed": "2026-11-27T05:22:43Z",
-    "total_runs": 16,
+    "last_status": "failed",
+    "last_failed": "2026-11-28T07:40:59Z",
+    "total_runs": 17,
     "total_successes": 0,
-    "total_failures": 16,
-    "consecutive_failures": 16,
+    "total_failures": 17,
+    "consecutive_failures": 17,
     "success_rate": 0,
     "last_dispatch": "2026-11-28T07:37:20Z"
   },
